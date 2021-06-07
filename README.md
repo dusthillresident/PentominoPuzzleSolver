@@ -8,3 +8,4 @@ On ubuntu/debian, the extra packages required to build this are `build-essential
 Install those or the equivalents for your distro, and then use bash to execute compile.sh\
 Then you can run the "pentominosolverbin" executable.
 
+The trans-compiler used to generate the C code from the source is available here: https://github.com/dusthillresident/JohnsonScript
