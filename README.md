@@ -1,5 +1,5 @@
 # PentominoPuzzleSolver
-GUI-based automatic solution finder for pentomino/"Daedalian Opus" puzzles.
+GUI-based automatic solution finder for pentomino/"Daedalian Opus" puzzles.\
 Written in Johnsonscript, available as translated/trans-compiled C code.
 
 It runs on Linux and uses xlib for graphics.
