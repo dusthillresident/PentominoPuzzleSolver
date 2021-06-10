@@ -10,6 +10,6 @@ Then you can run the "pentominosolverbin" executable.
 
 The trans-compiler used to generate the C code from the source is available here: https://github.com/dusthillresident/JohnsonScript
 
-NOTICE FOR ARM / RASPBERRY PI USERS \ 
-Please note that this transcompiled C version may not work properly on Raspberry pi due to the order of evaluation of function parameters. \ 
+NOTICE FOR ARM / RASPBERRY PI USERS\
+Please note that this transcompiled C version may not work properly on Raspberry pi due to the order of evaluation of function parameters.\
 If you're using Raspberry Pi or another ARM based system, please get the johnsonscript transcompiler/interpreter from the link above and run "pentomino_puzzle_solver.johnson" through 'run.sh' or use the johnsonscript interpreter to run it.
